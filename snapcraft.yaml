@@ -1,9 +1,9 @@
 name:  ms-spider-solitaire
-title:  Microsoft Windows XP Solitaire
+title:  Microsoft Windows XP Spider Solitaire
 version: "1.0"
-summary:  Microsoft Solitaire extracted from Windows XP
+summary:  Microsoft Spider Solitaire extracted from Windows XP
 description: |
-   Microsoft Solitaire extracted from Windows XP
+   Microsoft Spider Solitaire extracted from Windows XP
 
 grade: stable
 icon: ms-spider-solitaire_icon.png
